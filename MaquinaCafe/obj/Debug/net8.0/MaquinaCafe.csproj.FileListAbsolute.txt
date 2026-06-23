@@ -1,0 +1,11 @@
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.deps.json
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.dll
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\bin\Debug\net8.0\MaquinaCafe.pdb
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.AssemblyInfo.cs
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.dll
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\refint\MaquinaCafe.dll
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\MaquinaCafe.pdb
+C:\Users\ERICKSON\Desktop\Itla\Cuatrimestre 8\Introducción a la Ingeniería de Software\MaquinaCafeTDD\MaquinaCafe\obj\Debug\net8.0\ref\MaquinaCafe.dll
