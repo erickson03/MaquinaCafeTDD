@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ERICKSON\\Desktop\\Itla\\Cuatrimestre 8\\Introducci\u00F3n a la Ingenier\u00EDa de Software\\MaquinaCafeTDD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6112148-62FB-4F69-AD46-EEEF999B1CEF}|MaquinaCafe\\MaquinaCafe.csproj|c:\\users\\erickson\\desktop\\itla\\cuatrimestre 8\\introducci\u00F3n a la ingenier\u00EDa de software\\maquinacafetdd\\maquinacafe\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6112148-62FB-4F69-AD46-EEEF999B1CEF}|MaquinaCafe\\MaquinaCafe.csproj|solutionrelative:maquinacafe\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6324AAA8-581D-4866-9FA1-61A17B5EBDFC}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|c:\\users\\erickson\\desktop\\itla\\cuatrimestre 8\\introducci\u00F3n a la ingenier\u00EDa de software\\maquinacafetdd\\maquinacafe.tests\\maquinadecafepruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6324AAA8-581D-4866-9FA1-61A17B5EBDFC}|MaquinaCafe.Tests\\MaquinaCafe.Tests.csproj|solutionrelative:maquinacafe.tests\\maquinadecafepruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Azucarero.cs",
+              "DocumentMoniker": "C:\\Users\\ERICKSON\\Desktop\\Itla\\Cuatrimestre 8\\Introducci\u00F3n a la Ingenier\u00EDa de Software\\MaquinaCafeTDD\\MaquinaCafe\\Azucarero.cs",
+              "RelativeDocumentMoniker": "MaquinaCafe\\Azucarero.cs",
+              "ToolTip": "C:\\Users\\ERICKSON\\Desktop\\Itla\\Cuatrimestre 8\\Introducci\u00F3n a la Ingenier\u00EDa de Software\\MaquinaCafeTDD\\MaquinaCafe\\Azucarero.cs",
+              "RelativeToolTip": "MaquinaCafe\\Azucarero.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T02:09:34.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MaquinaDeCafe.cs",
               "DocumentMoniker": "C:\\Users\\ERICKSON\\Desktop\\Itla\\Cuatrimestre 8\\Introducci\u00F3n a la Ingenier\u00EDa de Software\\MaquinaCafeTDD\\MaquinaCafe\\MaquinaDeCafe.cs",
               "RelativeDocumentMoniker": "MaquinaCafe\\MaquinaDeCafe.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "MaquinaCafe\\MaquinaDeCafe.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T13:45:57.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T13:45:57.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MaquinaDeCafePruebas.cs",
               "DocumentMoniker": "C:\\Users\\ERICKSON\\Desktop\\Itla\\Cuatrimestre 8\\Introducci\u00F3n a la Ingenier\u00EDa de Software\\MaquinaCafeTDD\\MaquinaCafe.Tests\\MaquinaDeCafePruebas.cs",
               "RelativeDocumentMoniker": "MaquinaCafe.Tests\\MaquinaDeCafePruebas.cs",
@@ -52,7 +68,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
